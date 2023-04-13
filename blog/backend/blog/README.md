@@ -5,3 +5,5 @@ vueblog项目视频：https://www.bilibili.com/video/BV1PQ4y1P7hZ
 vueblog代码仓库：https://github.com/MarkerHub/vueblog
 
 SQL脚本：https://github.com/markerhub/vueblog/blob/master/vueblog-java/src/main/resources/vueblog.sql
+
+sso: https://blog.csdn.net/weixin_42073629/article/details/115436378

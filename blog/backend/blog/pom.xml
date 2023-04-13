@@ -21,6 +21,7 @@
         <module>shiro</module>
         <module>base-controller</module>
         <module>blog-shiro-rest</module>
+        <module>springboot-security-sso</module>
     </modules>
 
     <properties>
@@ -48,6 +49,13 @@
                 <groupId>io.springfox</groupId>
                 <artifactId>springfox-boot-starter</artifactId>
                 <version>3.0.0</version>
+            </dependency>
+
+            <!-- 实现对 Spring Security OAuth2 的自动配置 -->
+            <dependency>
+                <groupId>org.springframework.security.oauth.boot</groupId>
+                <artifactId>spring-security-oauth2-autoconfigure</artifactId>
+                <version>2.2.6.RELEASE</version>
             </dependency>
 
         </dependencies>
